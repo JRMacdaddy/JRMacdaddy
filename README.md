@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Jörn 👋
 
-<!--
-**JRMacdaddy/JRMacdaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Operational Executive & Enterprise Growth Leader
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. While you won't find neural networks or audio-cloning repos here, you will find the commercial infrastructure that scales them. I specialize in translating high-velocity AI breakthroughs into sustainable enterprise pipelines, corporate DAX partnerships, and global market dominance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Currently focused on:** Helping generation-defining AI infrastructure companies scale their European footprint.
+- 💼 **What I deploy:** Multi-million Euro commercial strategies, enterprise GTM architectures, and high-performance teams.
+- 🛠️ **My Tech Stack:** Low Ego, High Ownership, Scalable Revenue, Media Diplomacy.
+- 🛩️ **Fun Fact:** Active Public Affairs NCO in the German Air Force Reserve (because structure, operational security, and mission-readiness matter in tech too).
+
+---
+*Looking for my non-empty code? Let's talk business metrics instead:*
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/jriccius)
