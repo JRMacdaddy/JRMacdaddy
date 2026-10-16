@@ -1,25 +1,24 @@
 # Hi, I'm Jörn 👋
 
-### VP of Marketing | Web3 Ecosystem Scale & Enterprise Adoption
+### Global Events & Travel Lead | Web3 Ecosystems
 
-I build the commercial and narrative infrastructure that scales blockchain protocols 
-from early adoption to institutional relevance.
+I build and run the global event and travel operations behind blockchain
+ecosystems: flagship conferences, community programmes and the logistics
+that get hundreds of people to the right place on time.
 
-- 🔗 **Web3 Background:** Head of Global Events & GTM Advisor for the Polkadot 
-  ecosystem (Parity Tech) — scaling protocol authority at Token2049, Consensus, 
-  and EthCC, and translating technical roadmaps into market narratives that 
-  resonate with developers, validators, and enterprise decision-makers.
-- 📣 **What I do:** Protocol positioning, developer ecosystem GTM, owned social 
-  media (X, Telegram, YouTube), C-suite relationship architecture, and 
-  cross-functional marketing org design.
-- 🏗️ **Previously:** Enterprise marketing at SAP, Microsoft, Broadcom — 
-  multi-million Euro campaigns, flagship conference production (SAPPHIRE, 
-  Cisco Live EMEA), and DACH field marketing.
-- 🛩️ **Also:** Active Public Affairs NCO, German Air Force Reserve — 
-  because OPSEC, crisis communications, and information discipline matter 
-  in Web3 too.
+- 🔗 **Web3:** Global Events Lead for the Polkadot ecosystem (Parity
+  Technologies). Flagships such as Polkadot Decoded and the sub0 series,
+  sponsor presences at Token2049, EthDenver and Korea Blockchain Week,
+  and a distributed team of event managers across regions.
+- ✈️ **Travel:** Introduced and ran the global travel programme for up to
+  350 travellers: booking platform, corporate card and expense tooling,
+  and global agreements with airlines and hotel groups.
+- 🏗️ **Previously:** Events at SAP, Microsoft, Infiniti and
+  CA Technologies (now Broadcom), plus multipe production leadership.
+- 🛩️ **Also:** Planning under pressure and clear communication are daily practice.
 
 ---
 
-*No code repos here — my commits are in market share and ecosystem growth.*  
+*No code repos here. My commits are conferences, contracts and
+well-run trips.*  
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/jriccius)
